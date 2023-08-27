@@ -1,0 +1,4 @@
+inherited ViewHomeTDI: TViewHomeTDI
+  Caption = 'Home'
+  TextHeight = 32
+end

@@ -1,0 +1,6 @@
+inherited ViewBase1: TViewBase1
+  Caption = 'ViewBase1'
+  ExplicitLeft = 2
+  ExplicitTop = 2
+  TextHeight = 32
+end
